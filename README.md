@@ -264,9 +264,9 @@ You can adapt or update this section over time. Baseline items:
 
 For questions about Clara’s architecture, deployment, or extensions, please use the following:
 
-**Maintainer:** _[Your Name]_  
-**Email:** _[your.email@domain]_  
-**LinkedIn/GitHub:** _[links]_
+**Maintainer:** Praneet Kulkarni
+**Email:** praneet.kulkarni97@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/praneet-kulkarni
 
 ---
 
