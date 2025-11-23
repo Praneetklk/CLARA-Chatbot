@@ -1,0 +1,20 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.7.4
+pydantic-settings==2.1.0
+boto3==1.40.20
+botocore==1.40.20
+slowapi==0.1.9
+watchtower==3.0.1
+python-multipart==0.0.6
+# JWT authentication
+PyJWT==2.8.0
+# Environment variables
+python-dotenv==1.0.0
+# Optional perf
+orjson==3.10.7
+#redis
+redis==5.0.1
+# OpenSearch HTTP client + AWS SigV4 auth
+requests==2.32.3
+requests-aws4auth==1.2.3
